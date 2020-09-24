@@ -1,0 +1,7 @@
+torch==1.2.0
+torchvision==0.4.0
+tf-nightly-gpu-2.0-preview==2.0.0.dev20190723
+numpy
+matplotlib
+scipy
+lmdb
